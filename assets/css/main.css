@@ -1627,7 +1627,7 @@
 		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
 		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
 		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #000520 15%, #000035 85%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #000415 15%, #000015 85%);
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -2018,7 +2018,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #8cc9f0;
+			background-color: #388e3c;
 			color: #ffffff !important;
 			box-shadow: none;
 		}
@@ -2028,7 +2028,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #9acff2;
+				background-color: #43a047;
 			}
 
 			input[type="submit"].special:active,
@@ -2232,8 +2232,8 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #8cc9f0;
-			box-shadow: 0 0 0 1px #8cc9f0;
+			border-color: #388e3c;
+			box-shadow: 0 0 0 1px #388e3c;
 		}
 
 	.select-wrapper:before {
@@ -2260,8 +2260,8 @@
 
 	input[type="checkbox"]:focus + label:before,
 	input[type="radio"]:focus + label:before {
-		border-color: #8cc9f0;
-		box-shadow: 0 0 0 1px #8cc9f0;
+		border-color: #388e3c;
+		box-shadow: 0 0 0 1px #388e3c;
 	}
 
 	::-webkit-input-placeholder {
@@ -2361,7 +2361,7 @@
 		}
 
 		.icon.style5 {
-			color: #8cc9f0;
+			color: #388e3c;
 		}
 
 		@media screen and (max-width: 1680px) {
@@ -2929,7 +2929,7 @@
 			}
 
 			.statistics li.style5 {
-				background-color: #8cc9f0;
+				background-color: #388e3c;
 			}
 
 			.statistics li strong, .statistics li b {
@@ -3242,7 +3242,7 @@
 		width: 64em;
 		max-width: calc(100% - 4em);
 		padding: 1em;
-		background-color: #f7f7f7;
+		background-color: #81c784 ;
 		border-top-left-radius: 0.25em;
 		border-top-right-radius: 0.25em;
 		cursor: default;
@@ -3326,7 +3326,7 @@
 			position: fixed;
 			top: 0;
 			padding: 0.5em 1em;
-			background-color: rgba(247, 247, 247, 0.95);
+			background-color: #81c784 ;
 			border-top-left-radius: 0;
 			border-top-right-radius: 0;
 			z-index: 10000;
@@ -3373,7 +3373,7 @@
 		}
 
 		#main h1, #main h2, #main h3, #main h4, #main h5, #main h6 {
-			color: #636363;
+			color: #1b5e20;
 		}
 
 		#main blockquote {
@@ -3432,7 +3432,7 @@
 			#main input[type="button"].special,
 			#main button.special,
 			#main .button.special {
-				background-color: #8cc9f0;
+				background-color: #388e3c;
 				color: #ffffff !important;
 				box-shadow: none;
 			}
@@ -3442,7 +3442,7 @@
 				#main input[type="button"].special:hover,
 				#main button.special:hover,
 				#main .button.special:hover {
-					background-color: #9acff2;
+					background-color: #43a047;
 				}
 
 				#main input[type="submit"].special:active,
@@ -3479,8 +3479,8 @@
 			#main input[type="email"]:focus,
 			#main select:focus,
 			#main textarea:focus {
-				border-color: #8cc9f0;
-				box-shadow: 0 0 0 1px #8cc9f0;
+				border-color: #388e3c;
+				box-shadow: 0 0 0 1px #388e3c;
 			}
 
 		#main .select-wrapper:before {
@@ -3507,8 +3507,8 @@
 
 		#main input[type="checkbox"]:focus + label:before,
 		#main input[type="radio"]:focus + label:before {
-			border-color: #8cc9f0;
-			box-shadow: 0 0 0 1px #8cc9f0;
+			border-color: #388e3c;
+			box-shadow: 0 0 0 1px #388e3c;
 		}
 
 		#main ::-webkit-input-placeholder {
@@ -3562,10 +3562,10 @@
 
 		#main header.major h2:after {
 			background-color: #dddddd;
-			background-image: -moz-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: -webkit-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: -ms-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
+			background-image: -moz-linear-gradient(90deg, #efa8b0, #a89cc8, #388e3c);
+			background-image: -webkit-linear-gradient(90deg, #efa8b0, #a89cc8, #388e3c);
+			background-image: -ms-linear-gradient(90deg, #efa8b0, #a89cc8, #388e3c);
+			background-image: linear-gradient(90deg, #efa8b0, #a89cc8, #388e3c);
 		}
 
 		#main table tbody tr {
