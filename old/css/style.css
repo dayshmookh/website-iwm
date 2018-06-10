@@ -9,6 +9,7 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
+    background: linear-gradient(#000044, #000000, bottom)
 }
 
 main {
